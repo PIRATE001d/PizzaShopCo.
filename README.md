@@ -1,8 +1,28 @@
-# React + Vite
+## pizzaShopCo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to pizzaShopCo, a React app set up using Vite. This project aims to provide a seamless pizza ordering experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fast Refresh using [Babel](https://babeljs.io/) or [SWC](https://swc.rs/).
+- ESLint setup for maintaining clean code.
+
+## Getting Started
+
+To get this project up and running on your local machine, follow these steps:
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/en/) (version 16.8 or higher)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/pizzaShopCo.git
+   cd pizzaShopCo
+
